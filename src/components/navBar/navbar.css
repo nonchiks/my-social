@@ -1,0 +1,19 @@
+.navBar-link {
+  color: white;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+  width: 100%;
+  background: #393939;
+  margin: 3px 0;
+  border-radius: 50px;
+  text-align: center;
+  transition: 0.3s;
+  font-size: 20px;
+}
+
+
+.navBar-link:hover {
+  background: #f03e3e;
+}
